@@ -65,6 +65,7 @@ console.log(document);
                 }
 
             }
+            console.log(1)
 
         // Filter Items
         function filterItems(e){
